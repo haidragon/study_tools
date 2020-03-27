@@ -12,6 +12,9 @@
 ## Charles 
 ## BrupSuite 
 ## Fiddler
+## objection
+## Brida 
+## frida-cycript
 ## cycript
 * [第一节](https://github.com/haidragon/study_tools/blob/master/study_tools/cycript/pages.md)
 ## CobaltStrike
